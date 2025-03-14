@@ -1,4 +1,5 @@
 #Image Processing
+
 This conatains 3 scripts. 
 
 usingCurve.py is a rendition of how to apply a photoshop curve to images. 
